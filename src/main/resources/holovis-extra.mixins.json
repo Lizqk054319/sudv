@@ -1,0 +1,17 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "pl.holovis.mixin.extra",
+  "compatibilityLevel": "JAVA_21",
+  "injectors": { "defaultRequire": 0 },
+  "client": [
+    "HeldItemRendererMixin",
+    "HurtCamMixin",
+    "AspectMixin",
+    "SoundManagerMixin",
+    "FullbrightMixin",
+    "PlayerListHudMixin",
+    "PlayerDisplayNameMixin",
+    "EntityDisplayNameMixin"
+  ]
+}

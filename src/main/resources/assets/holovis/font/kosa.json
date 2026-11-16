@@ -1,0 +1,119 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_fire.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_crown.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_star.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_heart.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_gamepad.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_note.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_camera.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_chat.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_live.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/icon_play.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/kosa_badge.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "holovis:font/kosa_k.png",
+      "height": 9,
+      "ascent": 8,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\ue001": -10,
+        "\ue003": 3
+      }
+    }
+  ]
+}
